@@ -1,2 +1,3 @@
-pch18/baota:clear
+pch18/baota
 insoxin/baota7.7
+pch18/baota:clear
